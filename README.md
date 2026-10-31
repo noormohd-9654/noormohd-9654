@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**noormohd-9654/noormohd-9654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Noor Mohd
 
-Here are some ideas to get you started:
+### Category Management | Business Operations | Growth & Strategy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I am a business operations professional with 5+ years of experience in category management, business development, field operations and partner management.
+
+## 💼 Professional Experience
+
+- **Urban Company** – Category Management & Operations
+- **Zomato Limited** – Field Operations & Partner Onboarding
+
+## 🛠️ Skills
+
+- Category Management
+- Business Operations
+- Sales & Business Development
+- Microsoft Excel
+- SQL
+- Google Sheets
+- Data Analytics
+- Team Leadership
+
+## 🏆 Key Achievements
+
+- 25% Sales Growth
+- 15% Cost Reduction
+- 50+ Professionals Trained
+
+## 🎯 Areas of Interest
+
+- Business Growth & Strategy
+- Data Analytics
+- Operational Excellence
+- Process Improvement
+
+## 🌐 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/noor-mohd-549723219/)
+- Email: noormohd5947@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile!
